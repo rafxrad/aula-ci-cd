@@ -3,19 +3,19 @@
 
 #### Passo 1
 
-###### Criar repositório público
+Criar repositório público
 
 #### Passo 2
 
-###### Adicionar repositório remoto à estrutura da aplicação
+Adicionar repositório remoto à estrutura da aplicação
 
 #### Passo 3
 
-###### Adicionar arquivos yaml e configuração do repositório do gitpages
+Adicionar arquivos yaml e configuração do repositório do gitpages
 
 #### Passo 4
 
-###### Push da aplicação para teste do github actions.
+Push da aplicação para teste do github actions.
 
 
 
